@@ -3,4 +3,4 @@ An automatic fire alarm system provides real-time surveillance, monitoring, and 
 
 Schematic Diagram:
 
-![FIRE SENSOR ALARM](https://user-images.githubusercontent.com/52414279/232861244-945eb151-7cd1-400c-8bd8-dccfed8e83fb.png)
+![Screenshot 2023-04-19 173510](https://user-images.githubusercontent.com/52414279/233069762-b8614751-aa34-4b23-a4e2-30a19adae239.png)
